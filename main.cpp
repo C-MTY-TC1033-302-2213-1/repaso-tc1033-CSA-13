@@ -2,7 +2,6 @@
 //  main.cpp
 //  ComposicionTriangulo
 //
-//  Created by Ma. Guadalupe Roque Díaz de León on 18/05/23.
 //
 
 #include <iostream>
